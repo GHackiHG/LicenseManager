@@ -1,0 +1,5 @@
+D:\GIT\LicenseManager\ClientService\bin\Debug\ClientService.exe
+D:\GIT\LicenseManager\ClientService\bin\Debug\ClientService.pdb
+D:\GIT\LicenseManager\ClientService\obj\Debug\ClientService.csprojResolveAssemblyReference.cache
+D:\GIT\LicenseManager\ClientService\obj\Debug\ClientService.exe
+D:\GIT\LicenseManager\ClientService\obj\Debug\ClientService.pdb
